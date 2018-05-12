@@ -1,0 +1,32 @@
+_repo: Chaucer-and-His-England_37277
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coulton, G. G. (George Gordon)
+    alias: Coulton, George Gordon
+    birthdate: 1858
+    deathdate: 1947
+    gutenberg_agent_id: '38741'
+    url: http://www.gutenberg.org/2009/agents/38741
+description: ''
+gutenberg_issued: '2011-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37277'
+  lccn: 08033921
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poets, English -- Middle English, 1100-1500 -- Homes and haunts -- England'
+- !lcsh 'Chaucer, Geoffrey, -1400 -- Homes and haunts -- England'
+- !lcc 'DA'
+- !lcsh 'England -- Intellectual life -- 1066-1485'
+- !lcsh 'England -- Social life and customs -- 1066-1485'
+- !lcc 'PR'
+title: Chaucer and His England
+url: http://www.gutenberg.org/ebooks/37277
